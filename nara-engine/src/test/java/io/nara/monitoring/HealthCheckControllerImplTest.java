@@ -1,4 +1,4 @@
-package io.nara.oversight;
+package io.nara.monitoring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.http.ResponseEntity;
